@@ -1,0 +1,6 @@
+framework module Pods_AirBnb {
+  umbrella header "Pods-AirBnb-umbrella.h"
+
+  export *
+  module * { export * }
+}
